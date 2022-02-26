@@ -4,7 +4,7 @@
 
 This application uses the [os](https://docs.python.org/3/library/os.html) and [sys](https://docs.python.org/3/library/sys.html) Python built-in modules to parse user input using [argparse](https://docs.python.org/3/library/argparse.html) to find and delete duplicates files. 
 
-## Feautres
+## Features
 
 The input directory will be parsed using [os.walk](https://www.tutorialspoint.com/python/os_walk.htm) to determine every file in ever subdirectory, which will then be printed out to the user. The user can then decide whether or not to print the duplicate files.
 
